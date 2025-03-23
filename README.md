@@ -81,25 +81,4 @@ No unnecessary permissions are requested.
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License:
-
-## ViewRush: Instant Document Viewer - v1.0.0
-
-Welcome to the first release of ViewRush! This Chrome extension lets you open documents and media files directly in your browser with ease.
-
-### What's Included
-- **Right-Click Functionality**: Open files from webpage links or buttons via the "Open Document in Browser" context menu.
-- **Local File Upload**: Drag and drop or browse local files in the popup for instant viewing.
-- **Supported Formats**: `.docx`, `.pdf`, `.xlsx`, `.pptx`, `.png`, `.mp3`, `.mp4`, and more.
-- **External Viewers**: Uses Microsoft Office Online, Google Docs Viewer, and tmpfiles.org (temporary uploads, 60-minute lifespan).
-
-### How to Install
-1. Download `viewrush.zip` from this release.
-2. Extract the ZIP to a folder.
-3. In Chrome, go to `chrome://extensions/`, enable "Developer mode," and click "Load unpacked" to select the folder.
-
-### Notes
-- No unnecessary permissions; runs locally with no remote code.
-- See the [README](https://github.com/acaringijr/viewrush/blob/main/README.md) for full details.
-
-Enjoy seamless file viewing with ViewRush!
+This project is licensed under the MIT License.
