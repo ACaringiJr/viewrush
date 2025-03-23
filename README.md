@@ -1,9 +1,9 @@
-# DocuDash: Instant Document Viewer
+# ViewRush: Instant Document Viewer
 
-![DocuDash Logo](docudash-logo-128.png)  
+![ViewRush Logo](viewrush-logo-128.png)  
 **Quickly open documents and media files in your browser with a right-click or local upload.**
 
-DocuDash is a Chrome extension that lets you view a wide range of file types—documents (e.g., `.docx`, `.pdf`), spreadsheets (e.g., `.xlsx`), presentations (e.g., `.pptx`), images (e.g., `.png`), audio (e.g., `.mp3`), and video (e.g., `.mp4`)—directly in your browser. Right-click links or elements like buttons on webpages, or upload local files via the popup, and DocuDash handles the rest.
+ViewRush is a Chrome extension that lets you view a wide range of file types—documents (e.g., `.docx`, `.pdf`), spreadsheets (e.g., `.xlsx`), presentations (e.g., `.pptx`), images (e.g., `.png`), audio (e.g., `.mp3`), and video (e.g., `.mp4`)—directly in your browser. Right-click links or elements like buttons on webpages, or upload local files via the popup, and ViewRush handles the rest.
 
 ## Features
 - **Right-Click Viewing**: Open supported files from webpage links or buttons using the context menu ("Open Document in Browser").
@@ -14,16 +14,16 @@ DocuDash is a Chrome extension that lets you view a wide range of file types—d
 ## Installation
 
 ### From Chrome Web Store
-1. Visit the [DocuDash Chrome Web Store page](#) (link TBD after publication).
+1. Visit the [ViewRush Chrome Web Store page](#) (link TBD after publication).
 2. Click "Add to Chrome" and confirm the installation.
 3. Pin the extension to your toolbar for easy access.
 
 ### From Source (Developer Mode)
-1. Download the `docudash-extension.zip` file from the [Releases](https://github.com/acaringijr/docudash/releases) page.
+1. Download the `viewrush-extension.zip` file from the [Releases](https://github.com/acaringijr/viewrush/releases) page.
 2. Extract the ZIP file to a folder on your computer.
 3. Open Chrome and navigate to `chrome://extensions/`.
 4. Enable "Developer mode" (top right).
-5. Click "Load unpacked" and select the extracted `docudash-extension` folder.
+5. Click "Load unpacked" and select the extracted `viewrush-extension` folder.
 6. The extension will appear in your toolbar.
 
 ## Usage
@@ -34,7 +34,7 @@ DocuDash is a Chrome extension that lets you view a wide range of file types—d
 3. The file opens in a new tab using an appropriate viewer (e.g., Office Online for `.docx`, direct view for `.pdf`).
 
 ### Upload Local Files
-1. Click the DocuDash icon in your toolbar to open the popup.
+1. Click the ViewRush icon in your toolbar to open the popup.
 2. Drag a file into the "Drag & Drop a File Here" area or click "Browse Files".
 3. Click "Upload"
 4. The file opens in a new tab.
@@ -82,3 +82,24 @@ No unnecessary permissions are requested.
 
 ## License
 This project is licensed under the MIT License:
+
+## ViewRush: Instant Document Viewer - v1.0.0
+
+Welcome to the first release of ViewRush! This Chrome extension lets you open documents and media files directly in your browser with ease.
+
+### What's Included
+- **Right-Click Functionality**: Open files from webpage links or buttons via the "Open Document in Browser" context menu.
+- **Local File Upload**: Drag and drop or browse local files in the popup for instant viewing.
+- **Supported Formats**: `.docx`, `.pdf`, `.xlsx`, `.pptx`, `.png`, `.mp3`, `.mp4`, and more.
+- **External Viewers**: Uses Microsoft Office Online, Google Docs Viewer, and tmpfiles.org (temporary uploads, 60-minute lifespan).
+
+### How to Install
+1. Download `viewrush.zip` from this release.
+2. Extract the ZIP to a folder.
+3. In Chrome, go to `chrome://extensions/`, enable "Developer mode," and click "Load unpacked" to select the folder.
+
+### Notes
+- No unnecessary permissions; runs locally with no remote code.
+- See the [README](https://github.com/acaringijr/viewrush/blob/main/README.md) for full details.
+
+Enjoy seamless file viewing with ViewRush!
