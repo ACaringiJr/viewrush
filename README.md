@@ -14,7 +14,7 @@ ViewRush is a Chrome extension that lets you view a wide range of file types—d
 ## Installation
 
 ### From Chrome Web Store
-1. Visit the [ViewRush Chrome Web Store page](#) (link TBD after publication).
+1. Visit the [ViewRush Chrome Web Store page](https://chromewebstore.google.com/detail/viewrush-instant-document/difddgeoblclgafibnlkoegkgccockgp).
 2. Click "Add to Chrome" and confirm the installation.
 3. Pin the extension to your toolbar for easy access.
 
